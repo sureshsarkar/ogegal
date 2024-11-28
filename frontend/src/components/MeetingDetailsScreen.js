@@ -37,7 +37,7 @@ export function MeetingDetailsScreen({
           <button
             className="ml-16"
             onClick={() => {
-              const copyMessage =`\n🎉 You're invited to an amazing conversation at:\n🔗 https://sg34-peermeet.web.app/\n\n\n🚀 Meeting ID: ${meetingId}\n\n\nJoin us and let's connect! 🌐`;
+              const copyMessage =`\n🎉 You're invited to an amazing conversation at:\n🔗 https://callme-dnjw.onrender.com/\n\n\n🚀 Meeting ID: ${meetingId}\n\n\nJoin us and let's connect! 🌐`;
             
               navigator.clipboard.writeText(copyMessage);
               setIsCopied(true);
@@ -58,7 +58,7 @@ export function MeetingDetailsScreen({
             className="ml-2 text-gray-500 hover:text-gray-100 text-3xl"
             onClick={() => {
               console.log("email");
-              const copyMessage =`\n🎉 You're invited to an amazing conversation at:\n🔗 https://sg34-peermeet.web.app/\n\n\n🚀 Meeting ID: ${meetingId}\n\n\nJoin us and let's connect! 🌐`;
+              const copyMessage =`\n🎉 You're invited to an amazing conversation at:\n🔗 https://callme-dnjw.onrender.com/\n\n\n🚀 Meeting ID: ${meetingId}\n\n\nJoin us and let's connect! 🌐`;
               const subject = "Join the PeerMeet Conversation!";
               const body = encodeURIComponent(copyMessage);
               window.open(`mailto:?subject=${subject}&body=${body}`);

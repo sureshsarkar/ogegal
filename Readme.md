@@ -4,7 +4,7 @@ This project is built for educational purposes.
 
 ## Live Link: 
  - Link1: [https://sg34-peermeet.netlify.app/](https://sg34-peermeet.netlify.app/)
- - Link2: [https://sg34-peermeet.web.app/](https://sg34-peermeet.web.app/)
+ - Link2: [https://callme-dnjw.onrender.com/](https://callme-dnjw.onrender.com/)
  - Link3: [https://sg34-peermeet.firebaseapp.com/](https://sg34-peermeet.firebaseapp.com/)
 
  - The site deals with high-resolution real-time video streams and hence utilizes a lot of resources. Hence, this link may crash several times due to the limited resource allocation of the free hosting services.
